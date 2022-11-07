@@ -11,4 +11,6 @@
       <br><p>PAGINA PRINCIPAL - pode ter links,imagens,textos </p>
       </div>
       <div id="rodape"
-      <br><>
+      <br><p>RODAPÉ - algumas notação</p>
+    </div>         
+                      </body>
